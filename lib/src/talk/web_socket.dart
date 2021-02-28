@@ -12,7 +12,7 @@
 ///  limitations under the License.
 //import 'dart:html';
 import 'dart:html';
-import 'src/talk/base_client.dart';
+import 'base_client.dart';
 
 /// Web Socket client for Talk microservice
 class TalkWebSocket extends BaseClient {

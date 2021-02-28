@@ -11,7 +11,7 @@
 /// See the License for the specific language governing permissions and
 ///  limitations under the License.
 import 'package:http/http.dart' as http;
-import 'src/users/base_client.dart';
+import 'base_client.dart';
 
 class UsersWebService extends BaseClient {
   /// instatiate a UserWebService object.

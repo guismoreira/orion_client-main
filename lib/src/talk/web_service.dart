@@ -11,8 +11,8 @@
 /// See the License for the specific language governing permissions and
 ///  limitations under the License.
 import 'package:http/http.dart' as http;
-import 'src/talk/base_client.dart';
-import 'src/talk/web_socket.dart';
+import 'base_client.dart';
+import 'web_socket.dart';
 
 class TalkWebService extends BaseClient {
   /// instatiate a UserWebService object.
